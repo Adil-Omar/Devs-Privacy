@@ -288,7 +288,7 @@ export default function Privacy2() {
           <p className="leading-relaxed">
             We do not collect or analyze biometric face data. When you upload an
             image, it is temporarily stored on our server for the sole purpose
-            of creating a photo. Images are not shared with third parties and
+            of enhancing a photo. Images are not shared with third parties and
             are automatically deleted after processing.
           </p>
         </section>
