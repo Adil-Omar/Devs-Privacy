@@ -7,7 +7,7 @@ export default function Privacy3() {
 
         <nav className="max-w-[1100px] w-[90%] mx-auto" >
             <h1 className="text-3xl md:text-4xl font-semibold leading-tight">
-          Privacy Policy For NovaChat AI
+          Privacy Policy For Askly.
         </h1>
         </nav>
         </div>
@@ -72,12 +72,12 @@ export default function Privacy3() {
               directors or other managing authority.
             </li>
             <li>
-              <strong>Application</strong> refers to NovaChat AI, the
+              <strong>Application</strong> refers to Askly, the
               software program provided by the Company.
             </li>
             <li>
               <strong>Company</strong> (referred to as either "the Company",
-              "We", "Us" or "Our" in this Agreement) refers to NovaChat AI.
+              "We", "Us" or "Our" in this Agreement) refers to Askly.
             </li>
             <li>
               <strong>Country</strong> refers to: Pakistan.
